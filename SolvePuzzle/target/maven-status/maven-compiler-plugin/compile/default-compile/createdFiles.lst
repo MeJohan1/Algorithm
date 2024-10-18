@@ -1,0 +1,5 @@
+com/mycompany/solvepuzzle/MapPuzzle.class
+com/mycompany/solvepuzzle/SolvePuzzle.class
+com/mycompany/solvepuzzle/Point.class
+com/mycompany/solvepuzzle/PuzzleParser.class
+com/mycompany/solvepuzzle/Finder.class
